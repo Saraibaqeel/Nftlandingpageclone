@@ -1,0 +1,167 @@
+
+p,a,h1{
+    color: #2d0b60 !important;
+    font-family: 'Noto Sans', sans-serif;
+
+}
+.nav1{
+    margin-left: -50%;
+}
+ .navbar{
+     position: fixed;
+     top: 0%;
+     width: 100%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+     background-color: #feefda;
+ }
+ i{
+     color: #2d0b60;
+ }
+ .header{
+     
+     background-color: #feefda;
+ }
+ .navbar-brand{
+     margin-left: 10%;
+ }
+ @media only screen and (min-width: 990px) {
+     .icons1{
+         margin-left: 130%;
+         width: 20%;
+     }
+  
+  }
+  @media only screen and (min-width: 990px) {
+    .icons2{
+        margin-left: 60%;
+        width: 20%;
+    }
+ 
+ }
+ .search-button{
+     margin-bottom: 6%;
+     width: 150px;
+     
+     background-color: black!important;
+ }
+ .search-button:hover{
+     color: black !important;
+     background-color:white !important ;
+    
+     
+ }
+ .search-button::placeholder{
+    font-family: 'Noto Sans', sans-serif !important;
+     color: white !important;
+     opacity: 1 !important;
+ }
+ .intro{
+     display: flex;
+     justify-content: space-between;
+     padding-top: 10%;
+     padding-bottom: 10%;
+     
+     width: 100%;
+     background-color: #feefda;
+ }
+ .heading{
+     margin-top: 20%;
+     text-align: center;
+     font-size: 40px;
+     
+ }
+ .intro-text{
+     font-size: 20px;
+     
+ }
+ .collection-button{
+     width: 200px;
+     height: 60px;
+     margin-top: 8%;
+    font-family: 'Noto Sans', sans-serif;
+    margin-left: 20%;
+     background-color: black !important;
+ }
+ .collection-button:hover{
+     color: black !important;
+     background-color: white !important;
+ }
+ .collection-button1{
+     
+    width: 200px;
+    height: 60px;
+    margin-top: 8%;
+   font-family: 'Noto Sans', sans-serif;
+   margin-left: 20%;
+    background-color: #f4c436!important;
+}
+
+.collection-button1:hover{
+    color: white !important;
+    background-color: black !important;
+}
+.collection-button2{
+     
+    width: 200px;
+    height: 60px;
+    margin-top: 8%;
+   font-family: 'Noto Sans', sans-serif;
+   margin-left: 20%;
+   color: white !important;
+    background-color: black!important;
+}
+.collection-button2:hover{
+    color: black !important;
+    background-color: white !important;
+}
+ @media only screen and (max-width: 700px) {
+    .collection-button{
+        width: 150px;
+       
+        margin-left: 20%;
+    }
+}
+    @media only screen and (max-width: 700px) {
+        .collection-button1{
+            width: 150px;
+           
+            margin-left: 20%;
+        }
+    }
+       
+   
+ 
+ @media only screen and (max-width: 900px) {
+    .intro{
+       
+        display: block;
+    }
+}
+    .intro-heading{
+       margin-left: 10% !important;
+    }
+    .intro-heading1{
+        margin-left: 20% ;
+     }
+
+   
+ 
+
+    @media only screen and (max-width: 700px) {
+        .gif1{
+           
+           margin-left: 20%;
+        }
+    }
+    .fuzzy{
+        padding-bottom: 5%;
+        padding-top: 5%;
+        background-color: #2d0b60;
+    }
+    .footer{
+
+        margin-bottom: 0%;
+    }
+    .link-images{
+        margin-left: 40%;
+    }
